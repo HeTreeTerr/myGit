@@ -1,0 +1,15 @@
+1、分支合并 
+	查询所有分支：git branch -a
+	切换分支：git checkout master（分支名）
+	分支合并： git merge develop（将devlop合并到当亲分支）
+	将本地分支提交的远程：git push origin master（分支名）
+
+2. 查看当前账号
+	git config --global user.name
+	hesensen
+	git config --global user.email
+	hesensen@hztianque.com
+
+3.配置账号信息
+	git config --global user.name 'userName'
+	git config --global user.email 'email'
