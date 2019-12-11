@@ -13,3 +13,5 @@
 3.配置账号信息
 	git config --global user.name 'userName'
 	git config --global user.email 'email'
+4.拉去指定分支代码
+	git clone -b 分支名  项目地址  命令拉取指定分支
